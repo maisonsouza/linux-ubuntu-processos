@@ -15,7 +15,7 @@
 * killall `<Nome do processo >` para matar o processo e associados.
 
 ### jobs,bg,pstree, &.
-
+* 
 ### Scripts e permissões de execução: sh e chmod.
 ### Procurando arquivos:locate e updatedb.
 ### Trocando de usuários: sudo e su.
