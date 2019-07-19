@@ -3,8 +3,17 @@
 ## [Link do Curso](https://cursos.alura.com.br/course/linux-ubuntu-processos)
 
 ### kill,ps,grep.
+* Podemos executar programas no terminal
+* ps -e para visualizar os processos.
+* kill `<id do processo>` para matar um processo, mas dá uma chance ao programa.
+* kill -9 `<id do processo>` para matar o processo sem dar chance para o programa.
+* ps -el para mostrar mais informaçes sobre o programa
+* grep filtra resultados.
+
+  
 
 ### killall, top.
+
 ### jobs,bg,pstree, &.
 ### Scripts e permissões de execução: sh e chmod.
 ### Procurando arquivos:locate e updatedb.
