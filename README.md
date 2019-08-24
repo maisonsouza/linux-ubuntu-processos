@@ -41,7 +41,7 @@
 
 ### Trocando de usuários: sudo e su.
 * root é o usuário com todas as permissões
-* Evitar tá passando senha de roott
+* Evitar tá passando senha de root
 * sudo para executar operações que exigem root
 * passwd para mudar senha do usuario.
 * sudo passwd par mudar a senha do root.
