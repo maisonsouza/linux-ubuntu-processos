@@ -35,14 +35,14 @@
 
 ### Procurando arquivos:locate e updatedb.
 * locate para pesquisar um arquivo.
-* Armazena informaçes sobre os arquyivos em uym banco de dados.
+* Armazena informaçes sobre os arquivos em um banco de dados.
 * updatedb para atualizar o banco de dados interno.
 * sudo para executar como root, ele pedirá a senha.
 
 ### Trocando de usuários: sudo e su.
-* root é o usuário com todas as permissões
-* Evitar tá passando senha de root
-* sudo para executar operações que exigem root
+* root é o usuário com todas as permissões.
+* Evitar tá passando senha de root.
+* sudo para executar operações que exigem root.
 * passwd para mudar senha do usuario.
 * sudo passwd par mudar a senha do root.
 * Programas que estão em /usr/bin executam sem sh.
